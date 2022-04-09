@@ -1,0 +1,6 @@
+1,NV001,Danh Hoàng Tân,19/01/2002,19/01/2020,FIT,100,Cử nhân,Công nghệ phần mềm,Hutech,30
+2,NV002,Than Trấn Nghiệp,19/02/2002,19/02/2020,FIT,50,Thạc sĩ,Kinh tế đầu tư,HCMUS,10
+1,NV003,Lê Trọng Tính,14/04/2022,28/04/2022,FIT,70,Cử nhân,Công nghệ phần mềm,FPT,10
+2,NV006,Cao Trường Toàn,23/04/2022,30/04/2022,FEN,123,Thạc sĩ,Luật tài chính,Hutech,12
+2,NV005,Đỗ Hoàn Tính,28/03/2022,06/05/2022,FIT,200,Thạc sĩ,Kinh tế đầu tư,BKHN,124
+1,NV007,Nguyễn Văn Tèo,28/08/1999,30/04/2022,FIT,200,Cử nhân,Công nghệ phần mềm,10,90

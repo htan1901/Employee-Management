@@ -1,0 +1,4 @@
+FIT,Khoa Công nghệ thông tin
+LAW,Khoa Luật
+FFE,Khoa Tài chính - Thương mại
+FEN,Khoa Tiếng Anh
