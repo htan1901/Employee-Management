@@ -42,7 +42,7 @@ public class MainController {
 			model.addAttribute("listNhanVien", mainService.searchByName(search));
 		return "list";
 	}
-
+	
 	@GetMapping("/add-teacher")
 	public String addTeacher (Model model) {
 		model.addAttribute("giaoVien", new GiaoVien());
