@@ -1,0 +1,4 @@
+2,NV002,Đỗ Hoàng Tân,16/08/2000,01/07/2022,FIT,1000000,Tiến sĩ,Luật tài chính,FPT,0
+1,NV001,Danh Hoàng Tân,19/01/2002,20/07/2022,FIT,100000,Cử nhân,Công nghệ phần mềm,Hutech,0
+2,NV003,Nguyễn Văn An,12/02/2003,26/06/2022,FFE,20000000,Thạc sĩ,Kinh tế đầu tư,HCMUS,0
+1,NV004,Trần Văn Hùng,16/06/2005,14/07/2022,FEN,5000000,Cử nhân,Tiếng Anh thương mại,BKHN,0

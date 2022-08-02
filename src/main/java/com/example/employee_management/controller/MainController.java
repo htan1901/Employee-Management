@@ -24,6 +24,11 @@ public class MainController {
 	@Autowired
 	MainService mainService;
 
+	@GetMapping("/")
+	public String indexPath() {
+		return "redirect:/add";
+	}
+
 	@GetMapping("/add")
 	public String mainAdd () {
 		return "add";
